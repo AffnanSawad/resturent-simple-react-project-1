@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "cover":"https://i.ibb.co/Sw6t88x/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg",
+      "title": "Gourmet Eats",
+      "time": 50 ,
+      "cl": 400,
+      "paragraph": "Indulge in a culinary adventure at Gourmet Eats, where every dish is a masterpiece.",
+      "ingredients": ["Salmon", "Asparagus", "Lemon", "Butter", "Garlic", "Rosemary" ]
+    },
+    {
+      "id": 2,
+      "cover":"https://i.ibb.co/zm1y3sq/well-done-steak-homemade-potatoes.jpg",
+      "title": "Flavorsome Fusion",
+      "time": 60 ,
+      "cl": 600,
+
+      "paragraph": "Discover the harmony of flavors at Flavorsome Fusion, where tradition meets innovation.",
+      "ingredients": ["Sushi Rice", "Tuna", "Avocado", "Nori Seaweed", "Soy Sauce", "Wasabi"]
+    },
+    {
+        "id": 3,
+        "title": "Coastal Cuisine",
+        "cover":"https://i.ibb.co/wR7cHYb/fresh-vegetable-salad-with-grilled-chicken-breast.jpg",
+        "time": 30 ,
+      "cl": 800,
+        "paragraph": "Embark on a coastal journey at Coastal Cuisine, where the ocean's bounty meets culinary finesse.",
+        "ingredients": ["Shrimp", "Scallops", "Lobster", "Coconut Milk", "Lemongrass", "Thai Basil"]
+      },
+      {
+        "id": 7,
+        "title": "Fresh Grill BBQ Chicken",
+        "cover":"https://i.ibb.co/Bw10VFc/fresh-grill-bbq-chicken.jpg",
+        "time": 55 ,
+      "cl": 980,
+        "paragraph": "Immerse yourself in the rustic charm of Rustic Flavors, where simple ingredients shine.",
+        "ingredients": ["Potatoes", "Chicken", "Cheddar Cheese", "Chives", "Sour Cream", "Black Pepper"]
+      },
+   
+      {
+        "id": 5,
+        "title": "Fiesta Fiesta!",
+        "cover":"https://i.ibb.co/NS5cYHH/top-view-vegetable-soup-with-meat-inside-plate-grey.jpg",
+        "time": 35 ,
+      "cl": 750,
+        "paragraph": "Join the celebration at Fiesta Fiesta!, where vibrant colors and bold flavors reign supreme.",
+        "ingredients": ["Tortilla Chips", "Guacamole", "Salsa", "Queso Fresco", "Jalapenos", "Cilantro"]
+      },
+      {
+        "id": 6 ,
+        "title": "Sunny Side Delights",
+        "cover":"https://i.ibb.co/4YyDVCv/farfalle-pasta-with-meatballs-spinach-sauce-with-fried-chickpeas.jpg",
+        "time": 70 ,
+      "cl": 1800,
+        "paragraph": "Bask in the warmth of Sunny Side Delights, where each dish is a ray of culinary sunshine.",
+        "ingredients": ["Eggs", "Tomatoes", "Avocado", "Bacon", "English Muffin", "Hollandaise Sauce"]
+      }
+     
+      
+    
+  ]
+  
