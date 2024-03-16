@@ -2,16 +2,17 @@
     {
       "id": 1,
       "cover":"https://i.ibb.co/Sw6t88x/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg",
-      "title": "Gourmet Eats",
+      "title": "Gourmets Eats!",
       "time": 50 ,
       "cl": 400,
+      
       "paragraph": "Indulge in a culinary adventure at Gourmet Eats, where every dish is a masterpiece.",
       "ingredients": ["Salmon", "Asparagus", "Lemon", "Butter", "Garlic", "Rosemary" ]
     },
     {
       "id": 2,
       "cover":"https://i.ibb.co/zm1y3sq/well-done-steak-homemade-potatoes.jpg",
-      "title": "Flavorsome Fusion",
+      "title": "Flavorsomes fa",
       "time": 60 ,
       "cl": 600,
 
@@ -29,7 +30,7 @@
       },
       {
         "id": 7,
-        "title": "Fresh Grill BBQ Chicken",
+        "title": "Fresh Gril BBQ!",
         "cover":"https://i.ibb.co/Bw10VFc/fresh-grill-bbq-chicken.jpg",
         "time": 55 ,
       "cl": 980,
@@ -39,7 +40,7 @@
    
       {
         "id": 5,
-        "title": "Fiesta Fiesta!",
+        "title": "Fiesta Fiest FA!",
         "cover":"https://i.ibb.co/NS5cYHH/top-view-vegetable-soup-with-meat-inside-plate-grey.jpg",
         "time": 35 ,
       "cl": 750,
@@ -48,7 +49,7 @@
       },
       {
         "id": 6 ,
-        "title": "Sunny Side Delights",
+        "title": "Sunny Sid BBQ",
         "cover":"https://i.ibb.co/4YyDVCv/farfalle-pasta-with-meatballs-spinach-sauce-with-fried-chickpeas.jpg",
         "time": 70 ,
       "cl": 1800,
