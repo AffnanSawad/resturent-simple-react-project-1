@@ -13,6 +13,15 @@ const Bookmarks = ({ cooks }) => {
     <div className="md:w-1/3">
       <h2 className="text-2xl font-bold mt-8">Want To Cook: {cooks.length}</h2>
 
+
+ <div className='flex ml-10 gap-16 text-xl font-bold mt-5 ' >
+
+<h1>NAME:</h1>
+<h1>TIME:</h1>
+<h1>CALORIES:</h1>
+ </div>
+
+
       {cooks.map((cook) => (
         <Bookmark key={cook.id} bookmark={cook} onCookButtonClick={handleCookButtonClick} />
       ))}

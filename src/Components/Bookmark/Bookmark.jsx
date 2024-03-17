@@ -9,7 +9,13 @@ const Bookmark = ({ bookmark, onPrepare }) => {
     };
 
     return (
+
+
+            
+
         <div className='flex font-bold pl-12 gap-10 mt-5'>
+            
+
             <h3 className="text-xl">{title}</h3>
             <h3 className="text-xl">{time} mint</h3>
             <h3 className="text-xl">{cl} cal</h3>
@@ -24,5 +30,25 @@ Bookmark.propTypes = {
 };
 
 export default Bookmark;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
